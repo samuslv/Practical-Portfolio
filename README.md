@@ -52,10 +52,14 @@ Domain Models (OOP)
 Persistence Layer (File I/O / SQL Database)
 ```
 
+---
 
-🌐 Author & Connect
-GitHub: [samuslv](https://github.com/samuslv)
+## 🌐 Author & Connect
 
-LinkedIn: [Samuel Silva](https://www.linkedin.com/in/samuel-silva-54558542b)
+- **GitHub:** [samuslv](https://github.com/samuslv)
 
-Email: [s4mygt007@gmail.com](mailto:s4mygt007@gmail.com)
+- **LinkedIn:** [Samuel Silva](https://www.linkedin.com/in/samuel-silva-54558542b)
+
+- **Email:** [s4mygt007@gmail.com](mailto:s4mygt007@gmail.com)
+
+---
