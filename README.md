@@ -1,20 +1,25 @@
-# Practical Portfolio & Case Studies 📑
+# 📂 Technical Portfolio & System Documentation
 
-A technical portfolio focused on **engineering reasoning, systems analysis, data modeling, and problem solving**.
-
-This repository documents technical challenges solved across academic and practical projects, highlighting architecture decisions, optimizations, and root-cause analysis performed during development.
+Welcome to my personal software engineering documentation repository. This portfolio organizes real-world technical implementations, architectural decisions, and troubleshooting guides across different engineering domains.
 
 ---
 
-## 📑 Architecture Domains
+## 🧭 Navigation by Domain
 
-For ease of navigation, case studies are organized by technical domain. Click on any category below to explore the detailed documentation:
+Choose a category below to explore dedicated documentation and implementation notes:
 
-* 🧠 **[java-backend](./docs/01-java-backend)** — Object-Oriented Programming, exception handling, File I/O persistence, and core business rules.
-* 🗄️ **[database](./docs/02-database)** — Relational data modeling, SQL query optimization, joins, and reporting.
-* 📋 **[requirements-and-sops](./docs/03-requirements-and-sops)** — Process mapping, technical specifications, and Standard Operating Procedures (SOPs).
-* 🛠️ **[support-and-hardware](./docs/04-support-and-hardware)** — Technical troubleshooting, hardware diagnostics, and IT support workflows.
+* 🧠 **[01 - Java & Backend](./Docs/01-java-backend)** — Object-Oriented Programming, exception handling, File I/O persistence, and core business rules.
+* 🗄️ **[02 - Database & Data Modeling](./Docs/02-database)** — Relational data modeling, SQL query optimization, joins, and reporting.
+* 📋 **[03 - Requirements & SOPs](./Docs/03-requirements-and-sops)** — Process mapping, technical specifications, and Standard Operating Procedures (SOPs).
+* 🛠️ **[04 - Support & Hardware](./Docs/04-support-and-hardware)** — Technical troubleshooting, hardware diagnostics, and IT support workflows.
 
+---
+
+## 🎯 Repository Purpose
+
+1. **Evidence-Driven Engineering:** Documenting architectural patterns, code refactoring, and query optimizations.
+2. **Knowledge Base:** Serving as a reusable standard for backend development, database scripts, and IT workflows.
+3. **Traceability:** Providing clear step-by-step documentation for complex bugs, system features, and configurations.
 ---
 
 ## 🔍 Recent Case Studies
