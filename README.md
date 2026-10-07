@@ -60,6 +60,4 @@ Persistence Layer (File I/O / SQL Database)
 
 - **LinkedIn:** [Samuel Silva](https://www.linkedin.com/in/samuel-silva-54558542b)
 
-- **Email:** [s4mygt007@gmail.com](mailto:s4mygt007@gmail.com)
-
 ---
